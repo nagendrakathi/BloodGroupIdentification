@@ -89,10 +89,5 @@ Blood_group_identification/
 - Integrate cloud storage for uploaded fingerprints.
 - Improve the accuracy of the machine learning model.
 
-## Contributors
-- **KrishnaVardhan Reddy** - Project Lead & ML Engineer
-- **Nagendra Babu** - Frontend Developer
-- **Sravya** - Backend Developer
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
